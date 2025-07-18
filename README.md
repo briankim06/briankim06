@@ -14,7 +14,6 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,python,java,spring,postgres,mongodb&theme=dark" />
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40" style="margin-left:10px;" alt="Streamlit" />
 </p>
 
 ---
