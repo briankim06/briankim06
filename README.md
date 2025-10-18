@@ -4,9 +4,9 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **an AI-powered personal finance app!**
-- 🌱 I’m currently learning **full-stack development**
-- 📫 How to reach me: **bk2957@columbia.edu**
+- 🔭 I’m currently working on **streamlining local elections!**
+- 🌱 I’m currently learning **cloud & systems architecture**
+- 📫 How to reach me: **bkim45606@gmail.com**
 
 ---
 
