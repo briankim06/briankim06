@@ -18,14 +18,6 @@
 
 ---
 
-### 🧑‍💻 Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=briankim06&layout=compact&theme=default" />
-</p>
-
----
-
 ### 🔗 Connect
 
 <p align="left">
