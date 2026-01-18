@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **streamlining local elections!**
+- 🔭 I’m currently working on **Batching LLM Inference**
 - 🌱 I’m currently learning **cloud & systems architecture**
 - 📫 How to reach me: **bkim45606@gmail.com**
 
@@ -13,7 +13,7 @@
 ### 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,tailwind,python,java,spring,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,python,ruby,go,java,spring,nodejs,postgres,mongodb&theme=dark" />
 </p>
 
 ---
