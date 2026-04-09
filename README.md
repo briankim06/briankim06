@@ -4,7 +4,7 @@
 ---
 
 ### 🌱 About Me
-- 🔭 I’m currently working on **Batching LLM Inference**
+- 🔭 I’m currently working on **low-latency, high performance systems**
 - 🌱 I’m currently learning **cloud & systems architecture**
 - 📫 How to reach me: **bkim45606@gmail.com**
 
